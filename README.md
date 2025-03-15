@@ -8,4 +8,6 @@ This project realizes real-time human skeleton detection based on yolov8 pose an
 ## Possible future functionalities:
 Count anthropometric features such as the number of squats, the number of pull-ups, etc.
 
-![keypoints_body18](https://github.com/user-attachments/assets/e4ede43b-9216-433a-91b5-76d4550bb411)
+附：coco人体所有关键点（代码里使用的是索引 图中的为序号）
+
+![fb2986da285c95be01f6a09bb0967159](https://github.com/user-attachments/assets/4a875ac9-be2f-4d93-85ae-70c8f063e9bd)
