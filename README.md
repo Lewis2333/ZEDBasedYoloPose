@@ -3,6 +3,7 @@
 This project realizes real-time human skeleton detection based on yolov8 pose and ZED binocular camera.
 ## Currently implemented functions:
 ①The real-time monitoring was completed and 17 points of the human body were drawn as bones.
+
 ②Realize the distance detection of people.
 ## Possible future functionalities:
 Count anthropometric features such as the number of squats, the number of pull-ups, etc.
